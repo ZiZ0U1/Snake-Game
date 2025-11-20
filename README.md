@@ -5,8 +5,7 @@ A classic console-based Snake game implementation. This project serves as a demo
 ## ⚙️ Project Details
 
 * **Language:** C++
-* **Environment:** Console/Terminal
-* **Key Concepts Demonstrated:**
+* ** Concepts Demonstrated:**
     * Game Loop (`while(true)`)
     * Input Handling
     * Collision Detection (Self-collision and wall collision)
