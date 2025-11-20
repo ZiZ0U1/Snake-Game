@@ -1,6 +1,6 @@
 # 🐍 Snake Game
 
-A classic console-based Snake game implementation. This project serves as a demonstration of basic game loop mechanics, collision detection, and dynamic data structures.
+A classic GUI Snake game implementation. This project serves as a demonstration of basic game loop mechanics, collision detection, and dynamic data structures.
 
 ## ⚙️ Project Details
 
